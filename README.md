@@ -1,7 +1,6 @@
 <h1 align="center">HI, I'M ILYA😄</h1>
 Hey there👋
-I'm a web-developer, who specializes in front-end. My stack is JavaScript and React. I love when websites run blazing fast and work extremely well
-
+I'm a web-developer, who specializes in front-end. My stack is JavaScript and React⚛️ I love when websites run blazing fast and work extremely well👌
 <!--
 **HorizonNorth/HorizonNorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
